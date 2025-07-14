@@ -1,11 +1,16 @@
 # 🧬 NeoLegacy
+
 ![License: Custom NeoLegacy](https://img.shields.io/badge/License-Custom%20NeoLegacy-red)
 ![Built with ❤️ by JonnyG](https://img.shields.io/badge/Built%20by-JonnyG-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Platform](https://img.shields.io/badge/platform-NeoShade%20AI-000000)
+![Tech](https://img.shields.io/badge/stack-React%2FFirebase%2FCapacitor-orange)
 
 ![NeoLegacy Banner](https://neo-shade.com/wp-content/uploads/2025/07/NeoLegacyBanner.jpg)
 
 > **Immortalize your essence. Speak beyond time.**  
 > NeoLegacy is the master platform for spiritual legacy preservation, AI-powered life reflections, and truth-based confessional tech.
+
 
 ---
 
@@ -50,6 +55,4 @@ Every interaction helps shape a living, breathing digital echo of the soul — p
 git clone https://github.com/Jonnygeo/NeoLegacy.git
 cd NeoLegacy
 npm install
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Platform](https://img.shields.io/badge/platform-NeoShade%20AI-000000)
-![Tech](https://img.shields.io/badge/stack-React%2FFirebase%2FCapacitor-orange)
+
