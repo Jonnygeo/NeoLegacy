@@ -59,7 +59,25 @@ NeoLegacy is powered by the $NEOAI token under **NeoShade AI LLC (Cheyenne, WY)*
 - Git CLI
 
 ### 📦 Installation
+🧠 Philosophy
+NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.
+Born from moral clarity and fueled by AI, this platform is your voice across time.
 
+👑 Credits
+🧠 Platform Architect: Jonathan G (a.k.a. Joker Jonny / Hackpen)
+
+💻 Core Dev Stack: React · Firebase · Capacitor
+
+🌐 Ecosystem: NeoShade AI · NeoLegacy · BruceAI
+
+📬 Contact & Links
+🌐 Website
+
+🧾 Tokenomics
+
+🧠 About NeoShade AI
+
+📢 X/Twitter: @neoshade2025
 ```bash
 git clone https://github.com/Jonnygeo/NeoLegacy.git
 cd NeoLegacy
