@@ -7,7 +7,7 @@
 ![Tech](https://img.shields.io/badge/stack-React%2FFirebase%2FCapacitor-orange)
 
 <p align="center">
-  <img src="https://neo-shade.com/wp-content/uploads/2025/07/NeoLegacyBanner.jpg" alt="NeoLegacy Banner"/>
+  <img src="https://neo-shade.com/wp-content/uploads/2025/07/github-banner.jpg" alt="Github Banner"/>
 </p>
 
 > **Immortalize your essence. Speak beyond time.**  
