@@ -59,25 +59,29 @@ NeoLegacy is powered by the $NEOAI token under **NeoShade AI LLC (Cheyenne, WY)*
 - Git CLI
 
 ### 📦 Installation
-🧠 Philosophy
-NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.
+<hr/>
+
+<h2>🧠 Philosophy</h2>
+<p>
+NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.<br/>
 Born from moral clarity and fueled by AI, this platform is your voice across time.
+</p>
 
-👑 Credits
-🧠 Platform Architect: Jonathan G (a.k.a. Joker Jonny / Hackpen)
+<h2>👑 Credits</h2>
+<ul>
+  <li><strong>🧠 Platform Architect:</strong> Jonathan G (a.k.a. Joker Jonny / Hackpen)</li>
+  <li><strong>💻 Core Dev Stack:</strong> React · Firebase · Capacitor</li>
+  <li><strong>🌐 Ecosystem:</strong> NeoShade AI · NeoLegacy · BruceAI</li>
+</ul>
 
-💻 Core Dev Stack: React · Firebase · Capacitor
+<h2>📬 Contact & Links</h2>
+<ul>
+  <li>🌐 <a href="https://neo-shade.com" target="_blank">Website</a></li>
+  <li>🧾 <a href="./neoai-tokenomics.md" target="_blank">Tokenomics & Migration Plan</a></li>
+  <li>🧠 <a href="https://neo-shade.com/about/" target="_blank">About NeoShade AI</a></li>
+  <li>📢 <a href="https://x.com/neoshade2025" target="_blank">@neoshade2025 on X/Twitter</a></li>
+</ul>
 
-🌐 Ecosystem: NeoShade AI · NeoLegacy · BruceAI
-
-📬 Contact & Links
-🌐 Website
-
-🧾 Tokenomics
-
-🧠 About NeoShade AI
-
-📢 X/Twitter: @neoshade2025
 ```bash
 git clone https://github.com/Jonnygeo/NeoLegacy.git
 cd NeoLegacy
