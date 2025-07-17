@@ -6,11 +6,12 @@
 ![Platform](https://img.shields.io/badge/platform-NeoShade%20AI-000000)
 ![Tech](https://img.shields.io/badge/stack-React%2FFirebase%2FCapacitor-orange)
 
-![NeoLegacy Banner](https://neo-shade.com/wp-content/uploads/2025/07/NeoLegacyBanner.jpg)
+<p align="center">
+  <img src="https://neo-shade.com/wp-content/uploads/2025/07/NeoLegacyBanner.jpg" alt="NeoLegacy Banner"/>
+</p>
 
 > **Immortalize your essence. Speak beyond time.**  
-> NeoLegacy is the master platform for spiritual legacy preservation, AI-powered life reflections, and truth-based confessional tech.
-
+> NeoLegacy is the flagship platform under NeoShade AI for preserving moral legacy, digital consciousness, and post-life messaging through ethical artificial intelligence.
 
 ---
 
@@ -30,14 +31,22 @@ Every interaction helps shape a living, breathing digital echo of the soul — p
 
 ## 🧩 Connected Modules
 
-| Module             | Description                                                  |
-|--------------------|--------------------------------------------------------------|
-| `NeoLegacy-Vault-Core` | Secure memory vault for encrypted legacy data            |
-| `bible-truth-db`       | Deep dissection and tagging of scripture & doctrine      |
-| `neo-legacy-chat`      | AI chat interface with legacy-based memory and logic     |
-| `neo-voice-core`       | Voice cloning, audio storage, and message creation       |
-| `neo-msg-deliver`      | Scheduled delivery of messages after death or events     |
-| `neo-shade-market`     | *(Coming Soon)* AI voice packs, digital legacies, agents |
+| Module               | Description                                                  |
+|----------------------|--------------------------------------------------------------|
+| `NeoLegacy-Vault-Core` | Secure memory vault for encrypted legacy data             |
+| `bible-truth-db`       | Deep dissection and tagging of scripture & doctrine       |
+| `neo-legacy-chat`      | AI chat interface with legacy-based memory and logic      |
+| `neo-voice-core`       | Voice cloning, audio storage, and message creation        |
+| `neo-msg-deliver`      | Scheduled delivery of messages after death or events      |
+| `neo-shade-market`     | *(Coming Soon)* AI voice packs, digital legacies, agents  |
+
+---
+
+## 📊 Tokenomics
+
+NeoLegacy is powered by the $NEOAI token under **NeoShade AI LLC (Cheyenne, WY)**. The token drives governance, access, staking, and platform rewards.
+
+👉 **[View Full Tokenomics & Migration Plan](./neoai-tokenomics.md)**
 
 ---
 
