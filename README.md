@@ -100,7 +100,8 @@ Violators may face legal action under digital rights protection and U.S. trade s
 - Node.js v18+
 - Firebase Project (with Auth & Firestore enabled)
 - Git CLI
-
+Rebuilt. Reimagined. Rebel-coded.
+Welcome to NeoLegacy — your voice beyond time.
 ### 📦 Installation
 
 
