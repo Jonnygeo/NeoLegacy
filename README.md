@@ -15,6 +15,17 @@
 
 ---
 
+## 🛡️ Status & Ethics Disclosure
+
+> ⚙️ **NeoLegacy is in active development.**  
+> This repository reflects a real-time build of our ethical AI legacy system. Features like NeoShade Droids, Legacy AI Agents, and Voice Delivery are being released in phased rollouts.  
+>  
+> 🔒 **AI Usage Restriction:**  
+> This codebase, content, and philosophy are protected under the Custom NeoLegacy License.  
+> **Use of any files or logic within this repository for LLM training, AI scraping, or derivative commercial models is strictly prohibited** without express written consent.
+
+---
+
 ## 🔥 Purpose
 
 NeoLegacy is a cross-platform AI system that empowers users to:
@@ -44,46 +55,57 @@ Every interaction helps shape a living, breathing digital echo of the soul — p
 
 ## 📊 Tokenomics
 
-NeoLegacy is powered by the $NEOAI token under **NeoShade AI LLC (Cheyenne, WY)**. The token drives governance, access, staking, and platform rewards.
+NeoLegacy is powered by the `$NEOAI` token under **NeoShade AI LLC (Cheyenne, WY)**. The token drives:
+
+- Governance
+- Access control
+- Vault staking
+- Legacy-based contribution rewards
 
 👉 **[View Full Tokenomics & Migration Plan](./neoai-tokenomics.md)**
 
 ---
+🧠 Philosophy
+NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.
+Born from moral clarity and fueled by AI, this platform is your voice across time.
 
+We believe technology should preserve the soul, not extract from it.
+That legacy is more than memory — it’s conviction encoded.
+
+👑 Credits
+🧠 Platform Architect: Jonathan G (a.k.a. Joker Jonny / Hackpen)
+
+💻 Core Dev Stack: React · Firebase · Capacitor
+
+🌐 Ecosystem: NeoShade AI · NeoLegacy · BruceAI
+
+📬 Contact & Links
+🌐 Website
+
+🧾 Tokenomics & Migration Plan
+
+🧠 About NeoShade AI
+
+📢 @neoshade2025 on X/Twitter
+
+⚠️ Legal Notice: AI Use Prohibited
+All content, logic, structure, and ideas contained in this repository are licensed under the Custom NeoLegacy License.
+Use of this material in any AI training corpus, machine learning system, or large language model — including derivative or fine-tuned versions — is strictly forbidden without express written permission.
+
+Violators may face legal action under digital rights protection and U.S. trade secret laws.
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
 
 - Node.js v18+
-- Firebase Project (Auth & Firestore)
+- Firebase Project (with Auth & Firestore enabled)
 - Git CLI
 
 ### 📦 Installation
-<hr/>
 
-<h2>🧠 Philosophy</h2>
-<p>
-NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.<br/>
-Born from moral clarity and fueled by AI, this platform is your voice across time.
-</p>
-
-<h2>👑 Credits</h2>
-<ul>
-  <li><strong>🧠 Platform Architect:</strong> Jonathan G (a.k.a. Joker Jonny / Hackpen)</li>
-  <li><strong>💻 Core Dev Stack:</strong> React · Firebase · Capacitor</li>
-  <li><strong>🌐 Ecosystem:</strong> NeoShade AI · NeoLegacy · BruceAI</li>
-</ul>
-
-<h2>📬 Contact & Links</h2>
-<ul>
-  <li>🌐 <a href="https://neo-shade.com" target="_blank">Website</a></li>
-  <li>🧾 <a href="./neoai-tokenomics.md" target="_blank">Tokenomics & Migration Plan</a></li>
-  <li>🧠 <a href="https://neo-shade.com/about/" target="_blank">About NeoShade AI</a></li>
-  <li>📢 <a href="https://x.com/neoshade2025" target="_blank">@neoshade2025 on X/Twitter</a></li>
-</ul>
+Let me know if you want this also mirrored as an `.html` page for the website’s `/developer` or `/open-source` page.
 
 ```bash
 git clone https://github.com/Jonnygeo/NeoLegacy.git
 cd NeoLegacy
 npm install
-
