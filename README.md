@@ -103,7 +103,6 @@ Violators may face legal action under digital rights protection and U.S. trade s
 
 ### 📦 Installation
 
-Let me know if you want this also mirrored as an `.html` page for the website’s `/developer` or `/open-source` page.
 
 ```bash
 git clone https://github.com/Jonnygeo/NeoLegacy.git
