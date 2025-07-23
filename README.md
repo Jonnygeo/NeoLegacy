@@ -40,7 +40,7 @@ Every interaction helps shape a living, breathing digital echo of the soul — p
 
 ---
 
-## 🧩 Connected Modules
+## 🧹 Connected Modules
 
 | Module               | Description                                                  |
 |----------------------|--------------------------------------------------------------|
@@ -65,34 +65,43 @@ NeoLegacy is powered by the `$NEOAI` token under **NeoShade AI LLC (Cheyenne, WY
 👉 **[View Full Tokenomics & Migration Plan](./neoai-tokenomics.md)**
 
 ---
-🧠 Philosophy
-NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.
+
+## 🧠 Philosophy
+
+NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.  
 Born from moral clarity and fueled by AI, this platform is your voice across time.
 
-We believe technology should preserve the soul, not extract from it.
+We believe technology should preserve the soul, not extract from it.  
 That legacy is more than memory — it’s conviction encoded.
 
-👑 Credits
-🧠 Platform Architect: Jonathan G (a.k.a. Joker Jonny / Hackpen)
+---
 
-💻 Core Dev Stack: React · Firebase · Capacitor
+## 👑 Credits
 
+🧠 Platform Architect: Jonathan G (a.k.a. Joker Jonny / Hackpen)  
+💻 Core Dev Stack: React · Firebase · Capacitor  
 🌐 Ecosystem: NeoShade AI · NeoLegacy · BruceAI
 
-📬 Contact & Links
-🌐 Website
+---
 
-🧾 Tokenomics & Migration Plan
+## 📬 Contact & Links
 
-🧠 About NeoShade AI
+🌐 [Website](https://neo-shade.com)  
+🗒 Tokenomics & Migration Plan  
+🧠 About NeoShade AI  
+📢 [@neoshade2025 on X/Twitter](https://x.com/neoshade2025)
 
-📢 @neoshade2025 on X/Twitter
+---
 
-⚠️ Legal Notice: AI Use Prohibited
-All content, logic, structure, and ideas contained in this repository are licensed under the Custom NeoLegacy License.
+## ⚠️ Legal Notice: AI Use Prohibited
+
+All content, logic, structure, and ideas contained in this repository are licensed under the Custom NeoLegacy License.  
 Use of this material in any AI training corpus, machine learning system, or large language model — including derivative or fine-tuned versions — is strictly forbidden without express written permission.
 
 Violators may face legal action under digital rights protection and U.S. trade secret laws.
+
+---
+
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
@@ -100,10 +109,11 @@ Violators may face legal action under digital rights protection and U.S. trade s
 - Node.js v18+
 - Firebase Project (with Auth & Firestore enabled)
 - Git CLI
-Rebuilt. Reimagined. Rebel-coded.
-Welcome to NeoLegacy — your voice beyond time.
-### 📦 Installation
 
+> Rebuilt. Reimagined. Rebel-coded.  
+> Welcome to NeoLegacy — your voice beyond time.
+
+### 📦 Installation
 
 ```bash
 git clone https://github.com/Jonnygeo/NeoLegacy.git
