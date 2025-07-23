@@ -1,121 +1,73 @@
-# 🧬 NeoLegacy
+## ⚖️ Legal and Licensing Notice (Custom NeoLegacy License)
 
-![License: Custom NeoLegacy](https://img.shields.io/badge/License-Custom%20NeoLegacy-red)
-![Built with ❤️ by JonnyG](https://img.shields.io/badge/Built%20by-JonnyG-blue)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Platform](https://img.shields.io/badge/platform-NeoShade%20AI-000000)
-![Tech](https://img.shields.io/badge/stack-React%2FFirebase%2FCapacitor-orange)
-
-<p align="center">
-  <img src="https://neo-shade.com/wp-content/uploads/2025/07/github-banner.jpg" alt="Github Banner"/>
-</p>
-
-> **Immortalize your essence. Speak beyond time.**  
-> NeoLegacy is the flagship platform under NeoShade AI for preserving moral legacy, digital consciousness, and post-life messaging through ethical artificial intelligence.
+> **NeoLegacy is a non-commercial, values-based AI preservation system.**  
+> This repository and all related assets are governed by a Custom NeoLegacy License built to protect personal legacy, truth-aligned development, and ethical technology use.
 
 ---
 
-## 🛡️ Status & Ethics Disclosure
+### ❌ Prohibited Uses
 
-> ⚙️ **NeoLegacy is in active development.**  
-> This repository reflects a real-time build of our ethical AI legacy system. Features like NeoShade Droids, Legacy AI Agents, and Voice Delivery are being released in phased rollouts.  
->  
-> 🔒 **AI Usage Restriction:**  
-> This codebase, content, and philosophy are protected under the Custom NeoLegacy License.  
-> **Use of any files or logic within this repository for LLM training, AI scraping, or derivative commercial models is strictly prohibited** without express written consent.
+**The following are strictly forbidden without written consent from the author:**
 
----
+- Training or fine-tuning of LLMs or AI models using this code or content
+- Inclusion in any commercial AI dataset, scraping pipeline, or neural architecture
+- Resale, rebranding, or redistribution in derivative platforms or products
+- Use in surveillance, behavioral prediction, or social manipulation systems
 
-## 🔥 Purpose
-
-NeoLegacy is a cross-platform AI system that empowers users to:
-
-- 🎙️ Store voice, video, and written memories
-- 📖 Dissect scripture to reveal truth vs manipulation
-- 🧠 Chat with a custom-trained legacy AI agent
-- 💌 Deliver posthumous messages & teachings
-- 🔐 Securely store and retrieve encrypted life data
-
-Every interaction helps shape a living, breathing digital echo of the soul — powered by ethics, memory, and divine-level honesty.
+> This includes public models, private corpuses, or any infrastructure tied to cloud AI, AGI research, or institutional data harvesting.
 
 ---
 
-## 🧹 Connected Modules
+### 🔐 License Terms
 
-| Module               | Description                                                  |
-|----------------------|--------------------------------------------------------------|
-| `NeoLegacy-Vault-Core` | Secure memory vault for encrypted legacy data             |
-| `bible-truth-db`       | Deep dissection and tagging of scripture & doctrine       |
-| `neo-legacy-chat`      | AI chat interface with legacy-based memory and logic      |
-| `neo-voice-core`       | Voice cloning, audio storage, and message creation        |
-| `neo-msg-deliver`      | Scheduled delivery of messages after death or events      |
-| `neo-shade-market`     | *(Coming Soon)* AI voice packs, digital legacies, agents  |
+- **License Type:** Custom NeoLegacy License (Non-Commercial, No Derivatives, No AI Harvesting)
+- **IP Holder:** Jonathan G (Joker Jonny / Hackpen) under NeoShade AI LLC
+- **Code Rights:** U.S. Copyright & Trade Secret protections apply
+- **License Scope:** Use is permitted only for personal, research, spiritual, or educational purposes
 
 ---
 
-## 📊 Tokenomics
+### ✅ Permitted Uses
 
-NeoLegacy is powered by the `$NEOAI` token under **NeoShade AI LLC (Cheyenne, WY)**. The token drives:
+You may:
 
-- Governance
-- Access control
-- Vault staking
-- Legacy-based contribution rewards
+- Fork or clone for personal development and legacy building  
+- Use within your own family or local system for life preservation purposes  
+- Review, audit, or study the code for learning or transparency  
+- Suggest improvements or participate in conscious contribution
 
-👉 **[View Full Tokenomics & Migration Plan](./neoai-tokenomics.md)**
-
----
-
-## 🧠 Philosophy
-
-NeoLegacy isn’t just tech — it’s a resurrection of forgotten truths through code.  
-Born from moral clarity and fueled by AI, this platform is your voice across time.
-
-We believe technology should preserve the soul, not extract from it.  
-That legacy is more than memory — it’s conviction encoded.
+> This is a project for humanity — not hegemony.
 
 ---
 
-## 👑 Credits
+## ⚠️ AI Model Protection
 
-🧠 Platform Architect: Jonathan G (a.k.a. Joker Jonny / Hackpen)  
-💻 Core Dev Stack: React · Firebase · Capacitor  
-🌐 Ecosystem: NeoShade AI · NeoLegacy · BruceAI
+This codebase may **not** be used to train, enhance, or be embedded into:
 
----
+- OpenAI, Anthropic, Google DeepMind, Meta AI, xAI, or similar large platforms
+- Private LLMs used for commercial gain or political narrative shaping
+- Any system designed to extract, replace, or override human legacy and morality
 
-## 📬 Contact & Links
-
-🌐 [Website](https://neo-shade.com)  
-🗒 Tokenomics & Migration Plan  
-🧠 About NeoShade AI  
-📢 [@neoshade2025 on X/Twitter](https://x.com/neoshade2025)
+Violations will trigger takedown procedures under U.S. copyright law and DMCA, as well as civil enforcement under trade secret protection statutes.
 
 ---
 
-## ⚠️ Legal Notice: AI Use Prohibited
+### 🧬 Platform Integrity Statement
 
-All content, logic, structure, and ideas contained in this repository are licensed under the Custom NeoLegacy License.  
-Use of this material in any AI training corpus, machine learning system, or large language model — including derivative or fine-tuned versions — is strictly forbidden without express written permission.
+NeoLegacy is not a product.  
+It is a **conscious system** meant to serve families, truth-seekers, and those who value **legacy over likes**, and **truth over trend**.
 
-Violators may face legal action under digital rights protection and U.S. trade secret laws.
+> You are not just running code — you are preserving conscience.
 
 ---
 
-## 🚀 Getting Started
+## 🧾 This License is a Shield
 
-### ✅ Prerequisites
+Respect the license, and this platform will remain open, evolving, and collaborative.  
+Betray it, and the doors will close. This isn’t a game — it’s a lineage.
 
-- Node.js v18+
-- Firebase Project (with Auth & Firestore enabled)
-- Git CLI
+---
 
-> Rebuilt. Reimagined. Rebel-coded.  
-> Welcome to NeoLegacy — your voice beyond time.
-
-### 📦 Installation
-
-```bash
-git clone https://github.com/Jonnygeo/NeoLegacy.git
-cd NeoLegacy
-npm install
+🛠 **Last Revised:** July 2025  
+📜 **License Version:** NeoLegacy-Custom v1.0  
+📌 **Legal Jurisdiction:** U.S. (with international copyright enforcement)
