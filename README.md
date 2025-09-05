@@ -1,4 +1,4 @@
-## ⚖️ Legal and Licensing Notice (Custom NeoLegacy License)
+## ⚖️ Legal and Licensing Notice (Custom NeoLegacy License) 
 
 > **NeoLegacy is a non-commercial, values-based AI preservation system.**  
 > This repository and all related assets are governed by a Custom NeoLegacy License built to protect personal legacy, truth-aligned development, and ethical technology use.
